@@ -102,20 +102,7 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": [
-      {
-        "name": "main.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 247,
-          "pos_y": 1273,
-          "size_x": 1426,
-          "size_y": 720
-        }
-      }
-    ]
+    "files": []
   },
   "schematic": {
     "selection_filter": {
