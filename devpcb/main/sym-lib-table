@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RS100N135T")(type "KiCad")(uri "${KIPRJMOD}/RS100N135T.kicad_sym")(options "")(descr ""))
+)

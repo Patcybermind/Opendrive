@@ -1,0 +1,3 @@
+-55℃~+150℃ 1 N-Channel 100V 135A 2.5V 225W 27pF@25V 3.95nF 4.5mΩ@4.5V,20A 67nC@50V TO-220 MOSFETs ROHS
+is the mosfet planned (pulled from https://jlcpcb.com/parts/componentSearch?searchTxt=IRFB4110PbF)
+RS100N135T is the name
