@@ -5507,6 +5507,66 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 15.24 160.02)
+		(end 133.35 203.2)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 32f64a62-19f7-444f-a6de-7319f3587a8d)
+	)
+	(rectangle
+		(start 15.24 274.32)
+		(end 68.58 303.53)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 67a913d6-4d08-4de2-8b96-ad486519b73a)
+	)
+	(rectangle
+		(start 204.47 40.64)
+		(end 402.59 146.05)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid a879f738-1e49-4b46-a189-e9594fbd01c6)
+	)
+	(rectangle
+		(start 11.43 13.97)
+		(end 191.77 148.59)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid e14e964d-7a14-4af8-a15a-cdc24e7d6df7)
+	)
+	(rectangle
+		(start 15.24 213.36)
+		(end 95.25 265.43)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid fcda7ecb-f7d1-43c3-a907-059140bf0974)
+	)
 	(text "allow to use or not use\nexternal 3v3 power"
 		(exclude_from_sim no)
 		(at 107.696 176.022 0)
@@ -5537,6 +5597,16 @@
 		)
 		(uuid "321321c1-08a2-4e8a-912a-2c00c3d26023")
 	)
+	(text "SPI FLASH\n"
+		(exclude_from_sim no)
+		(at 34.544 269.24 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "627cb0b3-703e-4e2d-ae91-f46067cc30b0")
+	)
 	(text "12v must get to the drv"
 		(exclude_from_sim no)
 		(at 266.954 137.668 0)
@@ -5546,6 +5616,36 @@
 			)
 		)
 		(uuid "67a0ad0a-68c3-4e29-998e-e791aadc1405")
+	)
+	(text "GATE DRIVER\n"
+		(exclude_from_sim no)
+		(at 218.948 152.654 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "99a26390-a497-4024-82aa-78c187c8bd63")
+	)
+	(text "USB AND POWER"
+		(exclude_from_sim no)
+		(at 32.258 207.01 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "a465b343-8546-4b97-b722-9735450d6e9f")
+	)
+	(text "CRYSTAL\n"
+		(exclude_from_sim no)
+		(at 34.036 309.118 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "b78467e9-0c50-4a31-893c-20e9125a6549")
 	)
 	(text "Gnd pins"
 		(exclude_from_sim no)
@@ -5576,6 +5676,16 @@
 			)
 		)
 		(uuid "c97c1542-5ada-4183-a91d-635f66c902c6")
+	)
+	(text "RP2040\n\n"
+		(exclude_from_sim no)
+		(at 23.368 154.686 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "d158fdc6-061d-4e8e-930f-c6cd963904b0")
 	)
 	(text "MISO"
 		(exclude_from_sim no)
